@@ -1,0 +1,4 @@
+References
+[1]Josh Starmer. 2018. StatQuest: Random Forests in R. Video. from https://www.youtube.com/watch?v=6EXPYzbfLCE
+[2] Josh Starmer. 2018. StatQuest: Logistic Regression in R. Video. from https://www.youtube.com/watch?v=C4N3_XJJ-jU
+[3] RDataMining.com: R and Data Mining. Retrieved March 15,2020. http://www.rdatamining.com/
