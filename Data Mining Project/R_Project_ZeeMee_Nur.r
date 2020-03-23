@@ -1,4 +1,4 @@
-data <- read.csv("C:/Users/Avenoir/OneDrive/Github/R project/data/zeemee_data.csv")
+data <- read.csv("data/zeemee_data.csv")
 
 print(paste("Number of rows:", nrow(data)))
 print(paste("Number of columns:", ncol(data)))
